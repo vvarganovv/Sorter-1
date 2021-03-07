@@ -1,0 +1,7 @@
+﻿  sorts.cpp
+d:\c++\project_8\project_8\sorts.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++\project_8\project_8\sorts.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++\project_8\project_8\sorts.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++\project_8\project_8\sorts.cpp(90): warning C4018: <: несоответствие типов со знаком и без знака
+  project_8.vcxproj -> D:\c++\project_8\Debug\project_8.exe
+  project_8.vcxproj -> D:\c++\project_8\Debug\project_8.pdb (Full PDB)
