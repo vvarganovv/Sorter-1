@@ -30,9 +30,4 @@
 *.exe
 *.out
 *.app
-bin/
-obj/
-Debug/
-*.opensdf
-*.tlog
-*.log
+*/**/bin/Debug
