@@ -1,4 +1,4 @@
-# Prerequisites
+﻿# Prerequisites
 *.d
 
 # Compiled Object files
@@ -30,6 +30,14 @@
 *.exe
 *.out
 *.app
+
+# hd
+*.vcxproj
+*.filters
+*.tlog
+*.log
+*.idb
+*.pdb
 
 
 // Отсюда идут команды git:

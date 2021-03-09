@@ -146,7 +146,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="sorts.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bubblesort.h" />
+    <ClInclude Include="client.h" />
+    <ClInclude Include="context.h" />
+    <ClInclude Include="insertsort.h" />
+    <ClInclude Include="selectsort.h" />
+    <ClInclude Include="setarr.h" />
+    <ClInclude Include="time.h" />
+    <ClInclude Include="virtualClass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
